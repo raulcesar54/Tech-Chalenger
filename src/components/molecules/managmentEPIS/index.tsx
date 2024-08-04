@@ -59,6 +59,8 @@ export const ManagmentEPIS = ({ index }: { index: number }) => {
                 isLast
                   ? append({
                       id: v4(),
+                      ca_number: "",
+                      epi: "",
                     })
                   : remove(indexEpi);
               }}
