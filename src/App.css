@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#bg-imagem {
+    background-image: url('./assets/background.png');
+    background-repeat: no-repeat;
+    background-size: 450px;
+    background-position: bottom right;
+}

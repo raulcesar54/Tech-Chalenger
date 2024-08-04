@@ -1,0 +1,101 @@
+{
+  "employers": [
+    {
+      "active": true,
+      "id": "13e1",
+      "name": "qewrq",
+      "gender": "Feminino",
+      "CPF": "070.595.981-38",
+      "RG": "12341234",
+      "birth_date": "2024-08-08",
+      "position": "react",
+      "employer_dont_use_api": false,
+      "activities": [
+        {
+          "id": "0b0fda63-6801-4a24-9c73-95a4807c495c",
+          "activity": "activity2",
+          "epis": [
+            {
+              "id": "9e0c0e82-ebfb-4a91-bb83-fb5fe1a931ae",
+              "ca_number": "123",
+              "epi": "1234asdflo1n0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ef2",
+      "active": false,
+      "name": "qwreq",
+      "gender": "Feminino",
+      "CPF": "123.412.341-23",
+      "RG": "12312312",
+      "birth_date": "1994-02-03",
+      "position": "front-end",
+      "employer_dont_use_api": true
+    },
+    {
+      "id": "f4c0",
+      "active": false,
+      "name": "qwer",
+      "gender": "Feminino",
+      "CPF": "123.412.341-23",
+      "RG": "12341234",
+      "birth_date": "2024-08-15",
+      "position": "react",
+      "employer_dont_use_api": true
+    },
+    {
+      "id": "f7de",
+      "active": false,
+      "name": "qqewr",
+      "gender": "Feminino",
+      "CPF": "123.412.341-23",
+      "RG": "12341341",
+      "birth_date": "2024-07-30",
+      "position": "react",
+      "employer_dont_use_api": false,
+      "activities": [
+        {
+          "id": "cf3cc998-64bc-4441-9545-6fbd7450cb0c",
+          "activity": "activity2",
+          "epis": [
+            {
+              "id": "091f9093-7706-422e-bfe7-6d63efcea004",
+              "ca_number": "123",
+              "epi": "cxv"
+            },
+            {
+              "id": "5906bb9b-5d97-4214-9f25-39959c9094e2",
+              "ca_number": "12312",
+              "epi": "cxv"
+            }
+          ]
+        },
+        {
+          "id": "2e18f2cb-bb02-49b2-950c-333c632547ff",
+          "activity": "activity3",
+          "epis": [
+            {
+              "id": "19df2638-6cd2-4c52-a9d4-d95cd404b1e0",
+              "ca_number": "123",
+              "epi": "1234asdflo1n0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7021",
+      "active": true,
+      "name": "rac",
+      "gender": "Feminino",
+      "CPF": "123.412.341-23",
+      "RG": "12312312",
+      "birth_date": "2024-08-08",
+      "position": "react",
+      "employer_dont_use_api": true
+    }
+  ]
+}
